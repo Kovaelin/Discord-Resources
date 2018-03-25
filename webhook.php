@@ -1,4 +1,8 @@
 <?php
+/*A true Canadian's legacy of code.
+* Made by Kio for Discord-Resources.
+* Public domain. Free to use. */
+
 $json = file_get_contents('php://input'); 
 $json = json_decode($json, true);
 
