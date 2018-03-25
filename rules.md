@@ -8,7 +8,8 @@
 3. Do not violate the Terms of Service of Discord / Guidelines
 > NSFW content, for example, can and will be punished severely.
 
-4. Advertising as normal isn't allowed in our public channels. If you require help with your server in some way or someone to test your bot that's fine but handle that in DM and do not send invites unsolicited. 
+4. Advertising as normal isn't allowed in our public channels.
+> If you require help with your server in some way or someone to test your bot that's fine but handle that in DM and do not send invites unsolicited. 
 
 6. Keep comments and discussion constructive
 > Disagreements can and will happen, however, we will not tolerate posts that are severely out of line. Comments or posts that are not relevant to a topic will be deleted; Comments or posts that are extremely offensive or attack an individual or group may result in a ban.
