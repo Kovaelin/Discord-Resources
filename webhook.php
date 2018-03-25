@@ -5,7 +5,7 @@
 if (is_null($json["pages"][0]["summary"])) $json["pages"][0]["summary"] = "Updated ``". $json["pages"][0]["page_name"] . "``.";
 	$na = json_encode(array(
 		"username" => "Github",
-		"avatar_url" => "https://avatars0.githubusercontent.com/u/9919?s=280&v=4",
+		"avatar_url" => "https://cdn.discordapp.com/avatars/427332024978898944/74b8b6de441bce1a59f9c4ac74f666e6.png?",
 		"embeds" => array( 
 			array(
 				"url" => $json["pages"][0]["html_url"],
