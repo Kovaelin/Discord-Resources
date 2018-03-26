@@ -1,3 +1,6 @@
+# Code provided by ImSVTVN
+# https://gist.github.com/ImSVTVN/5bd9afc4dee457554351c7d2a463ce42
+
 <?php
 $members = json_decode(file_get_contents('https://discordapp.com/api/guilds/GUILD_ID_HERE/widget.json'), true)['members'];
 $membersCount = 1;
